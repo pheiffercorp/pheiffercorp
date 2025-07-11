@@ -18,5 +18,3 @@ hobbies:
     "Homelab Developement", 
   ]
 ```
-### 💻 List of Misc Tools - Windows / Android / IOS
-• [program_name](): Utility to add <br>
